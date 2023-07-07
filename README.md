@@ -3,7 +3,7 @@
 Data analysis of sales, profit, products, geographic sales, regression analysis using python
 # Data
 [Superstore data (fictional data)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/code?select=Sample+-+Superstore.csv)
-
+Open source data used for my student data analytics project with CareerFoundry
 Exploratory Data analysis reveals the following insights about the Superstore data:
 There are 9994 rows of data detailing the customer orders, shipments, products, Sales, discount, quantity and profits for the states and cities in the United States for years from  2014 to 2017.
 # Goal
