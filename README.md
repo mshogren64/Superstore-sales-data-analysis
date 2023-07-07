@@ -1,5 +1,5 @@
 # ![image](https://github.com/mshogren64/Superstore-sales-data-analysis/assets/133923160/36fd1c0b-0409-4891-b42e-6ad468cf6681) Superstore
--sales-data-analysis
+Sales data Analysis
 Data analysis of sales, profit, products, geographic sales, regression analysis using python
 # [Final Tableau Report-Superstore Sales data analysis](https://public.tableau.com/app/profile/margo.shogren/viz/MMS-SuperstoreAnalysis/SuperstoreSalesdata?publish=yes)
 ## Data
